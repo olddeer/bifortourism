@@ -3,7 +3,7 @@
 **BI4Tourism** is an intuitive and interactive web application designed to enhance tourism data analysis and decision-making. It empowers users to explore, query, and interact with tourism data efficiently. Whether you're a tourism professional, analyst, or enthusiast, this app provides tools to gain insights and answer questions about the tourism industry.
 
 ---
-Fronted APP - https://github.com/olddeer/bifortourism-web/tree/main
+Fronted APP - https://github.com/olddeer/bifortourism-web
 ---
 Backend APP - https://github.com/olddeer/usecase-app
 ---
